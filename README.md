@@ -1,4 +1,9 @@
+### こんにちは
+<p>福岡のIT企業でインターン生として働いているエンジニアです。toBウェブアプリケーションを作っています。
+  <br>面白いもの、人々の役に立てるものが作りたいです。
+</p>
 
+### Teck Stack
 <div>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
@@ -14,3 +19,8 @@
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-ruby-a-dynamic-open-source-programming-language-logo-shadow-tal-revivo.png"/>　
   <img src="https://user-images.githubusercontent.com/74745265/153753298-ce3e6ef9-d1bb-4066-8239-4ebb150b5d34.png" width="48px" height="48px">
 </div>
+
+### Writings
+<a href="https://qiita.com/wozitto" target="_blank" rel="noopener noreferrer">
+  <img src="https://user-images.githubusercontent.com/74745265/153753636-2c499bf0-72f5-4111-856b-c394327a45d1.png" width="150px" height="56px">
+</a>
